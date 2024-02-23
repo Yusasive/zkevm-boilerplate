@@ -1,0 +1,6 @@
+{
+    "name": "My NFT Collection",
+    "description": "NFT Collection on Immutable zkEVM",
+    "image": "https://<PINATA_GATEWAY>/ipfs/<CID of NFT Collection>",
+    "external_link": "https://some-url"
+   }
